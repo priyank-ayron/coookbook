@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/coookbook/static/css/main.11f0699a.chunk.css",
-    "main.js": "/coookbook/static/js/main.4ee85078.chunk.js",
-    "main.js.map": "/coookbook/static/js/main.4ee85078.chunk.js.map",
+    "main.css": "/coookbook/static/css/main.d887413e.chunk.css",
+    "main.js": "/coookbook/static/js/main.413d58a8.chunk.js",
+    "main.js.map": "/coookbook/static/js/main.413d58a8.chunk.js.map",
     "runtime-main.js": "/coookbook/static/js/runtime-main.32c865f7.js",
     "runtime-main.js.map": "/coookbook/static/js/runtime-main.32c865f7.js.map",
-    "static/js/2.2d41a84c.chunk.js": "/coookbook/static/js/2.2d41a84c.chunk.js",
-    "static/js/2.2d41a84c.chunk.js.map": "/coookbook/static/js/2.2d41a84c.chunk.js.map",
+    "static/js/2.2145f326.chunk.js": "/coookbook/static/js/2.2145f326.chunk.js",
+    "static/js/2.2145f326.chunk.js.map": "/coookbook/static/js/2.2145f326.chunk.js.map",
     "index.html": "/coookbook/index.html",
-    "static/css/main.11f0699a.chunk.css.map": "/coookbook/static/css/main.11f0699a.chunk.css.map",
-    "static/js/2.2d41a84c.chunk.js.LICENSE.txt": "/coookbook/static/js/2.2d41a84c.chunk.js.LICENSE.txt",
+    "static/css/main.d887413e.chunk.css.map": "/coookbook/static/css/main.d887413e.chunk.css.map",
+    "static/js/2.2145f326.chunk.js.LICENSE.txt": "/coookbook/static/js/2.2145f326.chunk.js.LICENSE.txt",
     "static/media/App.css": "/coookbook/static/media/food.bce7662c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.32c865f7.js",
-    "static/js/2.2d41a84c.chunk.js",
-    "static/css/main.11f0699a.chunk.css",
-    "static/js/main.4ee85078.chunk.js"
+    "static/js/2.2145f326.chunk.js",
+    "static/css/main.d887413e.chunk.css",
+    "static/js/main.413d58a8.chunk.js"
   ]
 }
