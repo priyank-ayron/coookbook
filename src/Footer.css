@@ -1,0 +1,24 @@
+.main-footer {
+  background-color: #f5f6fa;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+.contact_details {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #f5f6fa;
+}
+.display_contact {
+  display: flex;
+}
+.each_detail {
+  margin: 0;
+}
+.col-sm {
+  display: grid;
+  place-items: center;
+  font-size: 0.8em;
+  margin: 4px;
+  margin-top: 1px;
+}

@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Recipe from "./Recipe";
+import Footer from "./Footer";
 import "./App.css";
 require("dotenv").config();
 
@@ -59,6 +60,7 @@ function App() {
           ></Recipe>
         ))}
       </div>
+      <Footer></Footer>
     </div>
   );
 }
